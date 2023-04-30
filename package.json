@@ -1,7 +1,7 @@
 {
   "name": "makima.js",
-  "version": "0.0.2",
-  "description": "Universal module for everything.",
+  "version": "0.0.3",
+  "description": "Universal module beta.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -11,30 +11,13 @@
     "url": "git+https://github.com/nvvuti/makima.js.git"
   },
   "keywords": [
-    "catto",
-    "cat",
-    "js",
-    "discord",
-    "discord.js",
-    "express",
-    "passport",
-    "authorization",
-    "auth",
-    "discord-auth",
-    "kitten",
-    "cats",
-    "kittens",
-    "cattoes",
-    "easy",
-    "slash",
-    "random"
+    "makima"
   ],
   "author": "makimas",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nvvuti/makima.js/issues"
   },
-  "homepage": "https://github.com/nvvuti/makima.js#readme",
   "devDependencies": {
     "jest": "^29.4.1"
   },
