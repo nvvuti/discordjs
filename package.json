@@ -1,23 +1,13 @@
 {
-  "name": "discordjs",
+  "name": "makima.js",
   "version": "0.0.4",
   "description": "Universal module beta.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nvvuti/discordjs.git"
-  },
-  "keywords": [
-    "makima"
-  ],
   "author": "makimas",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nvvuti/discordjs/issues"
-  },
   "devDependencies": {
     "jest": "^29.4.1"
   },
