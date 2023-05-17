@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nvvuti/makima.js.git"
+    "url": "git+https://github.com/nvvuti/discordjs.git"
   },
   "keywords": [
     "makima"
@@ -16,7 +16,7 @@
   "author": "makimas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nvvuti/makima.js/issues"
+    "url": "https://github.com/nvvuti/discordjs/issues"
   },
   "devDependencies": {
     "jest": "^29.4.1"
